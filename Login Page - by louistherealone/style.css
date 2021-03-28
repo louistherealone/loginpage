@@ -1,0 +1,76 @@
+html, body {margin: 0; padding: 0; height: 100%; text-align: center;}
+h1 {text-align: center center; color: #fff}
+code {text-align: center;}
+
+#bod {
+    background-image: url(img/background.jpg);
+    background-position: center center;
+}
+
+#html hr {
+    width: 1000px;
+    height: 30px;
+}
+
+#email {
+    margin: 10px;
+    border-radius: 20px;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+    border: 3px solid black;
+    padding: 10px;
+    background: fixed;
+}
+
+#pw {
+    margin: 10px;
+    border-radius: 20px;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+    border: 3px solid black;
+    padding: 10px;
+    background: fixed;
+}
+
+#sum {
+    margin: 10px;
+    border-radius: 20px;
+    width: 600px;
+    height: 60px;
+    text-align: center;
+    border: 3px solid black;
+    padding: 10px;
+    background: fixed;
+}
+
+#email:hover {
+    width: 650px;
+    height: 35px;
+    border-color: red;
+}
+
+#pw:hover {
+    width: 650px;
+    height: 35px;
+    border-color: red;
+}
+
+
+#sum:hover {
+    border-color: greenyellow;
+}
+
+h1 {
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+    border: 3px solid black;
+    padding: 10px;
+    background: fixed;
+}
+
+h1:hover {
+    border-color: blue;
+}
